@@ -508,7 +508,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/lib/hw/com.qualcomm.qti.ant@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/com.qualcomm.qti.ant@1.0-impl.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/hw/fingerprint.goodix_G2.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.goodix_G2.default.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/hw/fingerprint.goodix_G3.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.goodix_G3.default.so \
-    vendor/realme/RMX1971/proprietary/vendor/lib/hw/hwcomposer.sdm710.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.sdm710.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/hw/sensors.sdm710.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.sdm710.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/hw/sound_trigger.primary.sdm710.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.sdm710.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/hw/vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-impl.so \
@@ -746,7 +745,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/lib/libsdm-color.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdm-color.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libsdm-diag.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdm-diag.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libsdm-disp-vndapis.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdm-disp-vndapis.so \
-    vendor/realme/RMX1971/proprietary/vendor/lib/libsdmcore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdmcore.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libsdmextension.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdmextension.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libsdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsdsprpc.so \
     vendor/realme/RMX1971/proprietary/vendor/lib/libsecureui.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecureui.so \
@@ -1007,7 +1005,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/hw/fingerprint.goodix_G2.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.goodix_G2.default.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/hw/fingerprint.goodix_G3.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.goodix_G3.default.so \
-    vendor/realme/RMX1971/proprietary/vendor/lib64/hw/hwcomposer.sdm710.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.sdm710.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/hw/sensors.sdm710.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.sdm710.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/hw/sound_trigger.primary.sdm710.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sound_trigger.primary.sdm710.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/hw/vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-impl.so \
@@ -1258,7 +1255,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1971/proprietary/vendor/lib64/libsdm-color.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-color.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/libsdm-diag.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-diag.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/libsdm-disp-vndapis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-disp-vndapis.so \
-    vendor/realme/RMX1971/proprietary/vendor/lib64/libsdmcore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmcore.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/libsdmextension.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmextension.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/libsdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdsprpc.so \
     vendor/realme/RMX1971/proprietary/vendor/lib64/libsecureui.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsecureui.so \
